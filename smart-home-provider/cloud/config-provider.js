@@ -14,9 +14,9 @@
 var Config = {};
 
 Config.devPortSmartHome = "3000";
-Config.smartHomeProviderGoogleClientId = "ZxjqWpsYj3"; // client id that Google will use
-Config.smartHomeProvideGoogleClientSecret = "hIMH3uWlMVrqa7FAbKLBoNUMCyLCtv"; // client secret that Google will use
-Config.smartHomeProviderApiKey = "<API_KEY>"; // client API Key generated on the console
+Config.smartHomeProviderGoogleClientId = "414683817273-nhpj31fgg1c7gu6t6ggn28g5ss1bfcqo.apps.googleusercontent.com"; // client id that Google will use
+Config.smartHomeProvideGoogleClientSecret = "UkGsJKwVfN1akb_kUBikkLxW"; // client secret that Google will use
+Config.smartHomeProviderApiKey = "AIzaSyBP3ntwP2hdUeTvyrdrPor0Iwv2apRQTKk"; // client API Key generated on the console
 Config.isLocal = false;
 
 function init() {
